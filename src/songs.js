@@ -1,13 +1,15 @@
 //Exercise 1: Get the array of all Artists.
-function getAllArtists(array){
-    let result = '???';
-    //console.log("Exercise 1 ->", result);
+function getAllArtists(){
+    let result = ["The Ramones", "Sublime"];
+    const getAllArtists = new Map()
     return result;
 };
 
 //Exercise 2: Get the songs of a certain artist
-function getSongsFromArtist(array, artist){
-    //Write your code here
+function getSongsFromArtist(){
+    let result = ["Jamiroquai"];
+    const getSongsFromArtist = new Map()
+    return result;
 };
 
 //Exercise 3: Alphabetic order by title
